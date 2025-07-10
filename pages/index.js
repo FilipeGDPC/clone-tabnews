@@ -1,6 +1,6 @@
 function Home () {
     return (
-        <h1>Curso.Dev!</h1>
+        <h1>Curso.Dev</h1>
 
     )
 
